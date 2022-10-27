@@ -39,6 +39,6 @@ buyNow=() =>{
     }
 }
 
-userBuyNow.onclick = (click)=>{
+userBuyNow.onclick = ()=>{
     buyNow()
   }
